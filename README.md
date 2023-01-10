@@ -1,2 +1,5 @@
-# latihan-github-xpplg1
-# latihan-github-xpplg1
+Nama : Achmad Firdaus Thesar
+</br>
+Kelas : X PPLG 1
+</br>
+"i love coding"
